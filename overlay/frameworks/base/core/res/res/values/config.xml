@@ -487,5 +487,8 @@
 
     <!--  Define Google play service package for FRP-->
     <string name="config_persistentDataPackageName" translatable="false">com.google.android.gms</string>
+	
+	<!-- Specify custom blanking delay of the display -->
+    <integer name="config_screen_off_delay">0</integer>
      
 </resources>
